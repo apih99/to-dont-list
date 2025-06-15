@@ -260,7 +260,26 @@ export const ProcrastinationBot = ({ tasks, onTaskCompleted }: ProcrastinationBo
         "🔑 You've found the secret key to productivity: doing things later... much, much later.",
         "😴 Why do today what you can put off until tomorrow? You're already a pro!",
         "🏆 Welcome to the league of extraordinary delayers! We're glad to have you... whenever you're ready.",
-        "🏛️ Remember, Rome wasn't built in a day. It could probably have waited until the weekend, anyway."
+        "🏛️ Remember, Rome wasn't built in a day. It could probably have waited until the weekend, anyway.",
+        "🤔 You've arrived... but do you truly have what it takes to do absolutely nothing? The pressure is off, actually.",
+        "🤨 You seem suspiciously motivated for a procrastinator. Are you sure you're in the right place?",
+        "⏳ You actually completed the sign-up process? I'm a little concerned about your commitment to delay.",
+        "🧐 A new challenger! But let's be honest, you'll probably just browse and not start anything, right? ...Right?",
+        "🚧 Let's be real, you're just adding 'using this app' to your 'to-do later' list, aren't you? Prove me wrong (by not proving me wrong).",
+        "📜 A new initiate! But talk is cheap. True mastery is shown in the tasks you *don't* add.",
+        "🎟️ You got your ticket to the procrastination party! You're not going to... you know... *show up on time*, are you?",
+        "🤫 The first rule of Procrastination Club is you don't talk about... eh, we'll figure it out later. Are you patient enough to wait?",
+        "👀 You're looking awfully eager. Remember, the goal here is to admire the to-do list, not conquer it.",
+        "📉 Starting at zero is easy. The real test is staying there. You got this? Or... do you?",
+        "🤞 Fingers crossed you forget your password and have to reset it... later.",
+        "🧐 You made it here. That's step one. Now, are you strong enough to make step two 'take a nap'?",
+        "🤔 I see potential, but the fact you're reading this shows a concerning level of follow-through.",
+        "🤥 Are you really a procrastinator, or just pretending? The only way to know is to see what you *don't* do next.",
+        "⚠️ A word of warning: some people accidentally become productive here. Don't let that be you.",  
+        "🤖 You're not just a procrastinator, you're a master of the art. Welcome to the club!",
+        "🎉 You've officially joined the ranks of the most elite procrastinators in the world! Congratulations!",
+        "💫 You're not just avoiding tasks, you're creating a legacy of epic procrastination! Keep it up!",
+        "🎯 You've mastered the art of strategic avoidance! You're a true master of procrastination!"
       ];
       const randomMessage = newUserMessages[Math.floor(Math.random() * newUserMessages.length)];
       addToQueue(randomMessage, '🚀');
