@@ -24,7 +24,27 @@ const excuses = [
   "I'm conducting a thorough risk assessment first.",
   "I'm waiting for inspiration to strike organically.",
   "I'm building character through delayed gratification.",
-  "I'm optimizing for long-term success over short-term action."
+  "I'm optimizing for long-term success over short-term action.",
+  "I'm recalibrating my glucose levels for sustained intellectual output.",
+  "I'm allowing the task to marinate in my genius.",
+  "The current barometric pressure is sub-optimal for peak cognitive function.",
+  "I'm stress-testing the system's ability to handle pending tasks.",
+  "I'm engaging in a pre-emptive ergonomic realignment session.",
+  "I'm waiting for my muse to return from her extended sabbatical.",
+  "I'm avoiding premature optimization to conserve valuable resources.",
+  "I'm letting the problem solve itself through quantum entanglement.",
+  "This requires a period of deep, uninterrupted philosophical inquiry.",
+  "I'm synchronizing my workflow with the local circadian rhythms of the fauna.",
+  "I'm currently in a deep REM cycle recovery phase to enhance neuroplasticity.",
+  "I'm field-testing the theory that some problems disappear if you ignore them long enough.",
+  "I'm implementing a 'clear desk, clear mind' policy, and the desk part is taking a while.",
+  "I'm observing the principle of inertia on a macro-task level.",
+  "My spirit animal advised me to wait for a more auspicious moon phase.",
+  "I'm compiling the necessary data, which is currently located in 'the cloud' of my imagination.",
+  "I'm performing critical horticultural maintenance to improve my workspace's oxygen levels.",
+  "I'm waiting for the entropy of my current workload to decrease naturally.",
+  "The pre-task ideation phase has been extended pending stakeholder feedback (from myself, later).",
+  "I'm sourcing artisanal, fair-trade motivation. It's on backorder."
 ];
 
 export const ExcuseGenerator = () => {
